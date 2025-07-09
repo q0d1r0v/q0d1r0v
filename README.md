@@ -1,7 +1,7 @@
 # Software Engineer
 
 Hello! 👋  
-I'm a fullstack software engineer passionate about delivering reliable, scalable, and user-friendly digital solutions. With experience across both backend and frontend, I enjoy transforming complex ideas into simple, effective applications.
+I'm a software engineer passionate about delivering reliable, scalable, and user-friendly digital solutions. With experience across both backend and frontend, I enjoy transforming complex ideas into simple, effective applications.
 
 ---
 
