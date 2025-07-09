@@ -21,10 +21,10 @@ I'm a software engineer passionate about delivering reliable, scalable, and user
 JavaScript, TypeScript, Go (Golang)
 
 **Frontend:**  
-React, Next.js, Vue.js, Nuxt, Angular, Tailwind CSS
+React, Next.js, Vue.js, Nuxt, Angular, Tailwind CSS, Bootstrap, Sass, Less, Vite, Webpack, TypeScript, JavaScript, Pinia, Redux, Zustand, Vuex, React Query, Axios, Fetch API, HTML5, CSS3
 
 **Backend:**  
-Node.js, Express, NestJS, Django, Gin, GORM, MongoDB, PostgreSQL, MySQL
+Node.js, Express, NestJS, Django, Gin, GORM, MongoDB, Mongoose, PostgreSQL, MySQL, SQLite, Redis, RabbitMQ, Socket.IO, REST API, GraphQL, Prisma, Sequelize
 
 **Tools & Platforms:**  
 Git, GitHub, GitLab, Docker, Docker Compose, Postman, Swagger, OpenAPI, Linux, Bash, GitHub Actions, GitLab CI/CD, Jenkins, htop, Neovim
