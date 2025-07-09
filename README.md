@@ -24,10 +24,10 @@ JavaScript, TypeScript, Go (Golang)
 React, Next.js, Vue.js, Nuxt, Angular, Tailwind CSS
 
 **Backend:**  
-Node.js, Express, NestJS, Django, MongoDB, PostgreSQL
+Node.js, Express, NestJS, Django, Gin, GORM, MongoDB, PostgreSQL, MySQL
 
 **Tools & Platforms:**  
-Git, GitHub, GitLab, Docker, Postman, Figma, Linux, VS Code
+Git, GitHub, GitLab, Docker, Docker Compose, Postman, Swagger, OpenAPI, Linux, Bash, GitHub Actions, GitLab CI/CD, Jenkins, htop, Neovim
 
 ---
 
