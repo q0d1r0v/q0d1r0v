@@ -44,7 +44,7 @@ Git, GitHub, GitLab, Docker, Docker Compose, Postman, Swagger, OpenAPI, Linux, B
 
 - **Email:** qodirovoybekjon08@gmail.com
 - **Telegram:** [@qodirov_oybekjon](https://t.me/qodirov_oybekjon)
-- **LinkedIn:** [linkedin.com/in/q0d1r0v](https://linkedin.com/in/q0d1r0v)
+- **LinkedIn:** [linkedin.com/in/q0d1r0v](https://www.linkedin.com/in/oybekjon-qodirov)
 
 ---
 
